@@ -10,7 +10,7 @@ index.html or base.html 헤더 부분에 붙여넣기
         
 # 삭제확인 컨펌 스크립트
 
-<pre><code>
+<pre><code type="js>
   <script>
        $('#delete').click(function () {
            if (confirm('Are you sure?') == true) {
